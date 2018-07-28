@@ -39,6 +39,7 @@ export const imageBlacklist: Blacklist<string> = [
     'https://i.imgur.com/VKdTkV8.jpg',
     'https://i.imgur.com/XhwS8Ow.jpg',
     'https://img.esteem.ws/lk2hsivn08.jpg',
+    'https://img.esteem.ws/hhhly37j23.jpg',
     'https://ipfs.io/ipfs/QmWMfcLnPFKL36hR4T4qiyBFWzV9yzN2fXaYZXQ3uA4nrr',
     'https://ipfs.pics/ipfs/QmXz6jNVkH2FyMEUtXSAvbPN4EwG1uQJzDBq7gQCJs1Nym',
     'https://myrmecos.files.wordpress.com/2010/04/imparis14.jpg?w=1400',
